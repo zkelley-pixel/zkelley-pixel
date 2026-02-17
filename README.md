@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Cytometry in R 
+
+- Favorite fluorophore: BV605
+
+- Previous coding experience: A couple Python classes through Coursera
+
+- What you hope to get from this course: more coding experience
+
 <!--
 **zkelley-pixel/zkelley-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
